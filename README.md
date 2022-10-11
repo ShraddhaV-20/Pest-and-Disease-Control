@@ -23,5 +23,4 @@ Successfully desgined and deployed a pesticide spraying robot that detects the p
 ### Project Poster 
 ![Poster_Final](https://user-images.githubusercontent.com/95766195/195154238-84d87295-5c84-417a-8848-dc3b42562e21.PNG)
 
-### Technical Paper
 
