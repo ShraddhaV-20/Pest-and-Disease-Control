@@ -20,3 +20,5 @@ The proposed system concentrates on an automation pest detection, its infestatio
 ### Result
 Successfully desgined and deployed a pesticide spraying robot that detects the pest infestation in potato plants and then sprays pesticide in the required quantity based upon the pest infestation levels. It navigates in the directions as desired by the user. Control for the same happens through a smartphone. 
 
+### Project Poster 
+![Poster_Final](https://user-images.githubusercontent.com/95766195/195154238-84d87295-5c84-417a-8848-dc3b42562e21.PNG)
